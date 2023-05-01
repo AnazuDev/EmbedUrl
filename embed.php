@@ -12,5 +12,4 @@ $embed = array(
 );
 
 echo json_decode($embed);
-
 ?>
